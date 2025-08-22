@@ -3,7 +3,10 @@ import pandas as pd
 import joblib
 
 import os
-MODEL_PATH = os.path.join(os.getcwd(), "SVR_best_model.pkl")
+
+MODEL_PATH = os.path.join(os.path.dirname(__file__), "SVR_best_model.pkl")
+model = joblib.load(MODEL_PATH)
+
 # Load trained pipeline
 # MODEL_PATH = "SVR_best_model.pkl"
 model = joblib.load(MODEL_PATH)
