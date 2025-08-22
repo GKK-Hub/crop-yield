@@ -6,7 +6,7 @@ import os
 MODEL_PATH = os.path.join(os.getcwd(), "SVR_best_model.pkl")
 # Load trained pipeline
 # MODEL_PATH = "SVR_best_model.pkl"
-# model = joblib.load(MODEL_PATH)
+model = joblib.load(MODEL_PATH)
 
 st.title("🌾 Rice Yield Prediction App")
 st.write("Enter environmental and agricultural factors to predict rice yield (kg/ha).")
