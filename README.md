@@ -4,6 +4,13 @@ A machine learning project that predicts **rice yield (kg/ha)** for districts in
 
 ---
 
+# Crop Yield Prediction Project
+
+🚀 **Live Demo:** [Try the app here](https://crop-yield-vcfvgbkebwzdgcrxc3qmjx.streamlit.app)
+
+Brief description of your project...
+
+
 ## 🗂️ Dataset
 
 - Source: **ICRISAT** (International Crops Research Institute for the Semi-Arid Tropics)  
