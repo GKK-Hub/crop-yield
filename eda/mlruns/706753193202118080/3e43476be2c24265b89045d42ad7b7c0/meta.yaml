@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/DELL/Desktop/crop_yield/eda/mlruns/706753193202118080/3e43476be2c24265b89045d42ad7b7c0/artifacts
+end_time: 1755846960808
+entry_point_name: ''
+experiment_id: '706753193202118080'
+lifecycle_stage: active
+run_id: 3e43476be2c24265b89045d42ad7b7c0
+run_name: Validation Curve - SVR__C
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755846955814
+status: 3
+tags: []
+user_id: DELL

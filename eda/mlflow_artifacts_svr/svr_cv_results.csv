@@ -1,0 +1,6 @@
+params,mean_test_score,std_test_score,rank_test_score
+"{'svr__C': 1100, 'svr__epsilon': 2, 'svr__gamma': 1e-05, 'svr__kernel': 'linear'}",563.2637992892347,155.6005587185135,1
+"{'svr__C': 1100, 'svr__epsilon': 2, 'svr__gamma': 0.0001, 'svr__kernel': 'linear'}",563.2637992892347,155.6005587185135,1
+"{'svr__C': 1100, 'svr__epsilon': 2, 'svr__gamma': 0.001, 'svr__kernel': 'linear'}",563.2637992892347,155.6005587185135,1
+"{'svr__C': 1100, 'svr__epsilon': 2.5, 'svr__gamma': 1e-05, 'svr__kernel': 'linear'}",564.5922823174734,156.51278473352022,4
+"{'svr__C': 1100, 'svr__epsilon': 2.5, 'svr__gamma': 0.0001, 'svr__kernel': 'linear'}",564.5922823174734,156.51278473352022,4

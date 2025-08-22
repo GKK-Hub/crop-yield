@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/DELL/Desktop/crop_yield/eda/mlruns/489070748757225041/e050fffc7fd346ddb3d256d4fd992189/artifacts
+end_time: 1755847417408
+entry_point_name: ''
+experiment_id: '489070748757225041'
+lifecycle_stage: active
+run_id: e050fffc7fd346ddb3d256d4fd992189
+run_name: RandomForest_trial_0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755847402480
+status: 3
+tags: []
+user_id: DELL

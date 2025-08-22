@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/DELL/Desktop/crop_yield/eda/mlruns/706753193202118080/44543fbe65d54f35b87ddd4f3d006820/artifacts
+end_time: 1755846954653
+entry_point_name: ''
+experiment_id: '706753193202118080'
+lifecycle_stage: active
+run_id: 44543fbe65d54f35b87ddd4f3d006820
+run_name: SVR Regressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755846903563
+status: 3
+tags: []
+user_id: DELL

@@ -1,0 +1,6 @@
+artifact_location: file:C:/Users/DELL/Desktop/crop_yield/eda/mlruns/489070748757225041
+creation_time: 1755847387142
+experiment_id: '489070748757225041'
+last_update_time: 1755847387142
+lifecycle_stage: active
+name: Rice_Yield_Optuna_HPO

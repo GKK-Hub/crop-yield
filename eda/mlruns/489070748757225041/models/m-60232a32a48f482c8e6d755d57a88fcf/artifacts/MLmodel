@@ -1,0 +1,42 @@
+artifact_path: file:C:/Users/DELL/Desktop/crop_yield/eda/mlruns/489070748757225041/models/m-60232a32a48f482c8e6d755d57a88fcf/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.1.4
+model_id: m-60232a32a48f482c8e6d755d57a88fcf
+model_size_bytes: 131604
+model_uuid: m-60232a32a48f482c8e6d755d57a88fcf
+prompts: null
+run_id: 8378d58721e34404975b7ac58a2ac223
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "year", "required": true}, {"type": "string",
+    "name": "dist_name", "required": true}, {"type": "double", "name": "actual_evapotranspiration",
+    "required": true}, {"type": "double", "name": "rice_area", "required": true},
+    {"type": "double", "name": "rice_production", "required": true}, {"type": "double",
+    "name": "rice_irrigated_area", "required": true}, {"type": "double", "name": "maximum_temperature",
+    "required": true}, {"type": "double", "name": "minimum_temperature", "required":
+    true}, {"type": "double", "name": "precipitation", "required": true}, {"type":
+    "double", "name": "total_kharif", "required": true}, {"type": "double", "name":
+    "total_rabi", "required": true}, {"type": "double", "name": "water_deficit", "required":
+    true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-08-22 07:23:16.050369'

@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/DELL/Desktop/crop_yield/eda/mlruns/769045443426172346/7b0570f288ed4fd8939d6e8befbd2095/artifacts
+end_time: 1755846903386
+entry_point_name: ''
+experiment_id: '769045443426172346'
+lifecycle_stage: active
+run_id: 7b0570f288ed4fd8939d6e8befbd2095
+run_name: Dummy Regressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755846886927
+status: 3
+tags: []
+user_id: DELL

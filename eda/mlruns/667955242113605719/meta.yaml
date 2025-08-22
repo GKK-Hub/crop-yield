@@ -1,0 +1,6 @@
+artifact_location: file:C:/Users/DELL/Desktop/crop_yield/eda/mlruns/667955242113605719
+creation_time: 1755847378180
+experiment_id: '667955242113605719'
+last_update_time: 1755847378180
+lifecycle_stage: active
+name: Optuna Best SVR

@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/DELL/Desktop/crop_yield/eda/mlruns/489070748757225041/models/m-1b291e624e534f30ac3cccf35c592443/artifacts
+creation_timestamp: 1755847722815
+experiment_id: '489070748757225041'
+last_updated_timestamp: 1755847738834
+model_id: m-1b291e624e534f30ac3cccf35c592443
+model_type: null
+name: XGB_final_model
+source_run_id: 5a6fef6aef8f4925a42264a13a930b37
+status: 2
+status_message: null

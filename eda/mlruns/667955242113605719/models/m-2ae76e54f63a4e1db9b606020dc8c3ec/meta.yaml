@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/DELL/Desktop/crop_yield/eda/mlruns/667955242113605719/models/m-2ae76e54f63a4e1db9b606020dc8c3ec/artifacts
+creation_timestamp: 1755847378702
+experiment_id: '667955242113605719'
+last_updated_timestamp: 1755847386677
+model_id: m-2ae76e54f63a4e1db9b606020dc8c3ec
+model_type: null
+name: model
+source_run_id: a37bd72ef9f743ac88c53507f4ad61b0
+status: 2
+status_message: null
